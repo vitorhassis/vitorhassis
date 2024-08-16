@@ -55,10 +55,6 @@
 
 <br clear="both">
 
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-
-![snake gif](https://github.com/your-user-name/vitorhassis/blob/output/github-contribution-grid-snake.gif)
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/vitorhassis/count.svg?"  />
 </div>
