@@ -57,7 +57,7 @@
 
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-# ![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+# ![snake gif](https://github.com/your-user-name/vitorhassis/blob/output/github-contribution-grid-snake.gif)
 
 name: Generate Snake
 
