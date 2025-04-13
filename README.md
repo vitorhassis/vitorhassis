@@ -1,12 +1,12 @@
-<h2 align="center">About Me</h2>
+<h2 align="center">Sobre Mim</h2>
 
 ###
 
-<p align="center">-Started my studies at the beginning of 2024;<br>-1/4 software engineering in Unicesumar Maringá-PR;</p>
+<p align="center">-Iniciei meus estudos no início de 2024;<br>-3º semestre de Engenharia de Software na Unicesumar – Maringá/PR;</p>
 
 ###
 
-<h2 align="center">Techs</h2>
+<h2 align="center">Tecnologias</h2>
 
 ###
 
@@ -15,20 +15,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
 
 ###
 
-<h2 align="center">Stats</h2>
+<h2 align="center">Status</h2>
 
 ###
 
@@ -39,7 +42,7 @@
 
 ###
 
-<h2 align="center">Social Media</h2>
+<h2 align="center">Redes Sociais</h2>
 
 ###
 
