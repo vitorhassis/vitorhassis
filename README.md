@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Sou um desenvolvedor em formação com foco em tecnologias full-stack, atualmente construindo projetos reais com C#, .NET, SQL, Vue.js e Git. Acredito que a melhor forma de consolidar conhecimento é aplicando na prática, por isso transformo tudo que estudo em soluções funcionais. Estou em constante evolução, estudando diariamente para ampliar minhas habilidades e me preparar para oportunidades reais no mercado. Enquanto isso, desenvolvo projetos autorais e realizo freelancers focados em landing pages responsivas e funcionais.</p>
+<p align="center">Sou um desenvolvedor em formação com foco em tecnologias full-stack, atualmente construindo projetos reais com C#, .NET, SQL, Vue.js e Git. Acredito que a melhor forma de consolidar conhecimento é aplicando na prática, por isso transformo tudo que estudo em soluções funcionais. Estou em constante evolução, estudando diariamente para ampliar minhas habilidades e me preparar para oportunidades reais no mercado. Enquanto isso, desenvolvo projetos autorais e realizo freelancers focados em landing pages responsivas e funcionais. Sou resiliente com o meu crescimento.</p>
 
 ###
 
