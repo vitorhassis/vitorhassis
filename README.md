@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  Sou um desenvolvedor em formação com foco em tecnologias full-stack. Atualmente, estou construindo projetos reais e fazendo freelancers — incluindo landing pages e sites utilizando Vue.js e Tailwind. Além disso, estou aprofundando meus conhecimentos em C# e SQL por meio de exercícios e projetos práticos. Acredito que a melhor forma de consolidar conhecimento é aplicando na prática, por isso transformo tudo que estudo em soluções funcionais. Estou em constante evolução, estudando diariamente para ampliar minhas habilidades e me preparar para oportunidades reais no mercado. Sou resiliente com o meu crescimento.
+  Sou um desenvolvedor em formação com foco em tecnologias full-stack. Atualmente, estou construindo projetos reais e fazendo freelancers — incluindo landing pages e sites utilizando Vue.js e Tailwind. Além disso, estou aprofundando meus conhecimentos em C# .NET e MySQL por meio de exercícios e projetos práticos. Acredito que a melhor forma de consolidar conhecimento é aplicando na prática, por isso transformo tudo que estudo em soluções funcionais. Estou em constante evolução, estudando diariamente para ampliar minhas habilidades e me preparar para oportunidades reais no mercado. Sou resiliente com o meu crescimento.
 </p>
 
 ###
