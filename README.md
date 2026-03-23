@@ -19,7 +19,6 @@
 - 👨‍💻 Software Engineering student (5th semester) focused on Backend with .NET.
 - 🚀 Currently building a full-stack Financial Management System with ASP.NET Core + Vue.js.
 - 🧠 Strong focus on clean architecture, DTOs, business rules and relational databases.
-- 🌍 Studying English daily aiming for international opportunities.
 
 ---
 
